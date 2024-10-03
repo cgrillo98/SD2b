@@ -1,4 +1,4 @@
-EN CONTRUCCIÓN
+EN CONSTRUCCIÓN
 
 Qué hace el proyecto.
 Por qué el proyecto es útil.
