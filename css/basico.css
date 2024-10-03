@@ -1,5 +1,19 @@
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: transparent;
+    background-color: #CCCCCC;
+}
 
-  .style1 {
+.navbar-inverse {
+    background-color: #CCCCCC;
+    border-color: transparent!important;
+}
+  
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #a2a2a2;
+}
+
+.style1 {
 	font-size: 30px;
 	color: #333333;
  	line-height: 100%;
